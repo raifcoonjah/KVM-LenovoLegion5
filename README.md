@@ -40,4 +40,4 @@ Find it [here](https://github.com/mraif13/KVM-LenovoLegion5/blob/master/stop.sh)
 
 Do this in order: Laptop Keyboard: `Virt manager > + Add Hardware > USB Host Device > Integrated Technology Express, Inc ITE Device(8910)`
 
-Wifi Card (Intel): `Virt manager > + Add Hardware > PCI Host Device > Intel Corporation Comet Lake PCH CNVi WiFi`
+Wifi Card (Intel): `Virt manager > + Add Hardware > PCI Host Device > Intel Corporation Comet Lake PCH CNVi WiFi` (You might not be able to access the host machine)
