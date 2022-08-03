@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Used for Debugging, Do NOT Remove. 
 set -x
 
