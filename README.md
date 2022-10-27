@@ -13,6 +13,7 @@ A guide for a successful GPU passthrough on the Lenovo Legion 5 (intel version)
 - Distro: Arch Linux running non-lts kernel
 - CPU: i5-10300H 
 - GPU: Nvidia 1650 (4GB)
+- RAM: 16GB DDR4 3200mhz
 
 ----
 
