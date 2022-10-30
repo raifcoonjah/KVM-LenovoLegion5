@@ -1,3 +1,7 @@
+# Due to recent changes, please read this before doing everything else:
+
+(READ ME)[https://github.com/raifcoonjah/KVM-LenovoLegion5/tree/master/Arch]
+
 # KVM-LenovoLegion5
 
 A guide for a successful GPU passthrough on the Lenovo Legion 5 (intel version). Please take this as a template and modify it to your needs.
