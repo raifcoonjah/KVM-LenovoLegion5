@@ -5,6 +5,7 @@
 # KVM-LenovoLegion5
 
 A guide for a successful GPU passthrough on the Lenovo Legion 5 (intel version). Please take this as a template and modify it to your needs.
+For the VM we are using win10 but it will work with win11 too, remember windows == spyware
 
 ### Sources:
 
